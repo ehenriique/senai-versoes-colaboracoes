@@ -3,3 +3,5 @@ Repositorio de Versões e Colaborações
 
 
 readme de exemplo
+
+lembrei do comando : git commit
